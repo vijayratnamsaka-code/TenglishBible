@@ -1,0 +1,4 @@
+- [x] Update `libs.versions.toml` with KSP and Kotlin plugins
+- [x] Update root `build.gradle.kts` to include plugins
+- [x] Update `app/build.gradle.kts` to use plugin aliases
+- [x] Verify build with Gradle Sync
